@@ -1,1 +1,3 @@
 # DoubleConsistency
+
+The code of Weakly Supervised 3D Segmentation via Receptive-driven Pseudo Label Consistency and Structural Consistency is coming soon...
